@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Student learning computer science, YouTube content creator, and Virtual Air Traffic Controller
+Programmer, Content Creator, EAS/Radio Enthusiast, Alternative and Country enjoyer **looking for freelance jobs**
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me: [Email](mailto:sv.samuel.valencia014@gmail.com) or [Discord](https://discord.gg/a65sJ99D98)
+- 📫 How to reach me: [Email](mailto:sv.samuel.valencia014@gmail.com) or Discord (bifocalcanvas)
 - ⚡ Fun fact: I'm an S2 (Tower Controller) on the [VATSIM](https://vatsim.net) network. 
 <hr>
 
