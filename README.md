@@ -4,7 +4,7 @@ Programmer, Content Creator, EAS/Radio Enthusiast, Alternative and Country enjoy
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me: [Email](mailto:sv.samuel.valencia014@gmail.com) or Discord (bifocalcanvas)
+- 📫 How to reach me: [Email](mailto:sam@svalencia.me) or Discord (bifocalcanvas)
 - ⚡ Fun fact: I'm an S3 (Approach Controller) on the [VATSIM](https://vatsim.net) network. 
 <hr>
 
