@@ -5,4 +5,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/svalencia014?logo=github&style=flat)
 ![GitHub User's stars](https://img.shields.io/github/stars/svalencia014?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat&logo=github)
 
-- 🔭 I'm currently working on a Sales Console for @H2-Technologies (Private Repository)
+- 🔭 I'm currently working on a Sales Console for [H2 Technologies](https://github.com/h2-technologies) (Private Repository)
