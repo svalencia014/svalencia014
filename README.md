@@ -6,7 +6,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/svalencia014?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat&logo=github)
 
 👋 Hello! I’m Sam
-+ 18 years old // high school
-+ Indianapolis, IN // USA
-+ U-Haul // [H2 Technologies](https://github.com/h2-technologies)
-+ Reservation Manager // Programmer
+🕖 19 Years old
+📍 Indianapolis, IN
+🚚 U-Haul Repair Dispatch Manager
